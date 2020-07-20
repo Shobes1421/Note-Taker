@@ -1,0 +1,19 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "Take Notes",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shobes1421/Note-Taker.git"
+  },
+  "author": "David Shober",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Shobes1421/Note-Taker/issues"
+  },
+  "homepage": "https://github.com/Shobes1421/Note-Taker#readme"
+}
