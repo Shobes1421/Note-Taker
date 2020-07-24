@@ -4,6 +4,7 @@
   "description": "Take Notes",
   "main": "server.js",
   "scripts": {
+    "start": "node server.js",
     "test": "test"
   },
   "repository": {
@@ -18,6 +19,7 @@
   "homepage": "https://github.com/Shobes1421/Note-Taker#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "mysql": "^2.18.1",
     "require": "^2.4.20"
   }
 }
